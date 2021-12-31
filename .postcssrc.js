@@ -3,6 +3,9 @@
 module.exports = {
   plugins: [
     // to edit target browsers: use "browserslist" field in package.json
-    require('autoprefixer')
+    require('postcss-nested'),
+    require('postcss-simple-vars'),
+    require('postcss-for'),
+    require('autoprefixer'),
   ]
 }

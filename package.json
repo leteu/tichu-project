@@ -12,6 +12,9 @@
     "@quasar/extras": "^1.0.0",
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
+    "postcss-for": "^2.1.1",
+    "postcss-nested": "^5.0.6",
+    "postcss-simple-vars": "^6.0.3",
     "quasar": "^2.0.0",
     "vuex": "^4.0.1"
   },
